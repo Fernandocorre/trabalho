@@ -1,9 +1,4 @@
 header{
-    width: 30%;
-    padding: 20px;
-    background-color: antiquewhite;
-    border-bottom: 2px solid white;
-    font-size: 32;
-    color: white;
-    display: flex;
+    width: 200px;
+    height: 100px;
 }
